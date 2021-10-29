@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AmizFlix</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        body {
+            background: linear-gradient(280deg, white, rgb(85, 25, 100));
+        }
+
+        #header {
+            background-color: black;
+            height: 70px;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+            margin-right: 30px;
+        }
+
+        #brand {
+            background-color: black;
+            width: 40%;
+            float: left;
+            text-align: center;
+            height: 70px;
+            line-height: 70px;
+        }
+
+        #menu {
+            background-color: black;
+            width: 60%;
+            float: right;
+            text-align: center;
+            height: 70px;
+            line-height: 70px;
+        }
+
+        #title {
+            margin-top: 40px;
+
+        }
+
+        #Pune {
+            margin-top: 30px;
+
+
+        }
+
+        #DP {
+            background: linear-gradient(280deg, black, rgb(59, 2, 52));
+            width: 500px;
+            color: rgb(247, 241, 241);
+            padding: 10px;
+            margin: 10px auto;
+            border-radius: 50px;
+        }
+
+        table {
+            width: 100%;
+            margin: 30px 0px;
+        }
+
+        img {
+            border-radius: 20px;
+            box-shadow: 0 0 20px bisque;
+        }
+
+        #footer {
+            background-color: black;
+            color: white;
+            padding: 30px;
+            margine-top: 20px
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <div id="brand">
+            <h1>AmizFlix</h1>
+        </div>
+
+        <div id="menu">
+            <a href="https://www.netflix.com/in/"
+                target="_blank">Netflix</a>
+            <a href="https://www.primevideo.com/?ref_=dvm_pds_amz_in_as_s_g_72_mkw_sfQQR2NKb-dc&mrntrk=pcrid_394383628233_slid__pgrid_82649959567_pgeo_9062113_x__ptid_kwd-308511887188"
+                target="_blank">AmazonPrime</a>
+            <a href="https://www.hotstar.com/in"
+                target="_blank">Disney+Hotstar</a>
+            <a href="https://www.voot.com/premium?&utm_source=google_web&utm_medium=search_google&utm_campaign=c_website_search_voot_select_brand_web_performance&gclid=Cj0KCQjwt-6LBhDlARIsAIPRQcJpGBwfaHAuYz2cUTSZuN4A-80Srp2XEEEqCGzBePTLEFFkk9F18SoaAvTIEALw_wcB&gclsrc=aw.ds"
+                target="_blank">VootSelect</a>
+        </div>
+    </div>
+
+
+
+    <div id="main">
+        <div id="title">
+            <h1>
+                <span style="color: rgb(0, 0, 0)">Top Webz</span>
+            </h1>
+            </hq>
+        </div>
+
+        <div id="Netflix">
+            <div id="DP">
+                <h3>Netflix</h3>
+            </div>
+            <p>Netflix, Inc. is an American pay television over-the-top media service and original programming
+                production company. It offers subscription-based video on demand from a library of films and television
+                series, 40% of which is Netflix original programming produced in-house.Netflix was founded in 1997 by
+                Reed Hastings and Marc Randolph in Scotts Valley, California. Netflix initially both sold and rented
+                DVDs by mail, but the sales were eliminated within a year to focus on the DVD rental business.[18][19]
+                In 2007, Netflix introduced streaming media/video on demand. The company expanded to Canada in 2010,
+                followed by Latin America and the Caribbean.</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://images.pexels.com/photos/2726370/pexels-photo-2726370.jpeg?cs=srgb&dl=pexels-johnmark-smith-2726370.jpg&fm=jpg"
+                            width="500px" height="300px" />
+                    </td>
+                    <td>
+                        <img src="https://images.unsplash.com/photo-1601944179066-29786cb9d32a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fG5ldGZsaXh8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+                            width="500px" height="300px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+
+        </div>
+
+        <div id="AmazonPrime">
+            <div id="DP">
+                <h3>AmazonPrime</h3>
+            </div>
+            <p>Amazon Prime Video, or simply Prime Video, is a subscription video on-demand over-the-top streaming and
+                rental service of Amazon.com, Inc., offered as a standalone service or as part of Amazon's Prime
+                subscription. The service primarily distributes films and television series produced by Amazon Studios
+                or licensed to Amazon, as Amazon Originals, with the service also hosting content from other providers,
+                content add-ons, live sporting events, and video rental and purchasing services.Prime Video launched
+                worldwide (except for Mainland China, Cuba, Iran, North Korea, Syria) expanding its reach beyond the
+                United States, United Kingdom, Germany, Austria, and Japan. Among the new territories, the service was
+                included with Prime in Belgium, Brazil, Canada, France, India, Ireland, Italy, Poland, and Spain, while
+                for all other countries, it was made available for a monthly promotional price of $/€2.99 per month for
+                the first six months and $/€5.99 per month thereafter.</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://images.unsplash.com/photo-1615986200515-84569a9113a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YW1hem9ucHJpbWV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+                            width="500px" height="300px" />
+                    </td>
+                    <td>
+                        <img src="https://images.unsplash.com/photo-1615986200762-a1ed9610d3b1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YW1hem9ucHJpbWV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+                            width="500px" height="300px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>.</td>
+                    <td>.</td>
+                </tr>
+            </table>
+
+        </div>
+
+        <div id="Disney+Hotstar">
+            <div id="DP">
+                <h3>Disney+Hotstar</h3>
+            </div>
+            <p>Hotstar (also known as Disney+ Hotstar[b]) is an Indian brand of subscription video on-demand
+                over-the-top streaming service owned by Star India and operated by Disney Media and Entertainment
+                Distribution, both a division of The Walt Disney Company.The brand was first introduced as Hotstar, for
+                a streaming service carrying content from Star India's local networks, including films, television
+                series, live sports, and original programming, as well as featuring content licensed from third-parties
+                such as HBO and Showtime among others. Amid the significant growth of mobile broadband in India, Hotstar
+                quickly became the dominant streaming service in the country.</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://images.unsplash.com/photo-1601944177325-f8867652837f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGluZXklMkJob3RzdGFyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+                            width="500px" height="300px" />
+                    </td>
+                    <td>
+                        <img src="https://image.shutterstock.com/image-photo/phitsanulok-thailand-august-24-2021-260nw-2031853142.jpg"
+                            width="500px" height="300px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="VootSelect">
+            <div id="DP">
+                <h3>VootSelect</h3>
+            </div>
+            <p>Voot is an Indian subscription video on-demand and over-the-top streaming service, owned by Viacom18.
+                Launched in March 2016, it is Viacom18's advertising-led video-on-demand platform[3] that is available
+                as an app for iOS,[4] KaiOS (JioPhone) and Android[5] users, and a website for desktop consumption. It
+                also accessible through Amazon Fire TV, Roku (for Virgin Media and Sling TV subscribers), Apple TV,
+                Android TV and Chromecast devices.Voot is available only in India, and hosts over 40,000 hours of video
+                content[5] that includes shows from channels like MTV, Nickelodeon and Colors.[3] Content is also
+                available in multiple languages like Kannada, Marathi, Bengali, Gujarati, Odia, Malayalam, Telugu and
+                Tamil.</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://i.gadgets360cdn.com/large/voot-select-logo_1579595846623.jpg"
+                            width="500px" height="300px" />
+                    </td>
+                    <td>
+                        <img src="https://img.republicworld.com/republic-prod/stories/images/15871191335e99841dc7d28.png"
+                            width="500px" height="300px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+
+    <div id="footer">
+        <div>
+            <!-- Add icon library -->
+            <link rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+            <!-- Add font awesome icons -->
+            <a href="https://www.facebook.com/amitadeepamu.chorghe.5" class="fa fa-facebook"></a>
+            <a href="https://github.com/amitachorghe" class="fa fa-github"></a>
+            <a herf="https://www.instagram.com/amitachorghe/" class="fa fa-instagram"></a>
+            <a herf="https://www.linkedin.com/in/amita-chorghe-a6b4a0166" class="fa fa-linkedin"></a>
+        </div>
+        <div style="margin: 10px 0px;">
+            <p> An online provider of entertainment (music, movies, etc.) that delivers the content via an Internet
+                connection to the subscriber's computer, TV or mobile device. Netflix, Amazon Prime Video, Doney+Hotstar, VootSelect
+                 are high-profile examples.
+            </p>
+        </div>
+        <div>
+            <h4>All Copyrights &copy; are Reserved</h4>
+        </div>
+    </div>
+
+</body>
+
+</html>
